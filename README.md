@@ -114,7 +114,7 @@ I enjoy learning new technologies, improving my technical skills, and turning wh
 
 Badr University in Cairo
 Computer Engineering
-GPA: **3.47 / 4.00**
+
 
 </td>
 
