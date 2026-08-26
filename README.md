@@ -1,215 +1,143 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="90"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif?raw=true" width="75%"/>
 
 <br>
 
-# KHALDOUN
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI+%26+Computer+Vision;Robotics+%26+Embedded+Systems;Curious+Mind.+Builder.+Learner." />
-
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Khaldoun+%F0%9F%91%8B;Computer+Engineering+Student;AI+%7C+Computer+Vision+%7C+Robotics;Always+Building+%26+Learning+%F0%9F%9A%80"/>
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
+# 👋 About Me
 
-### `hello_world()`
+I am a **Computer Engineering student** with a strong interest in **Artificial Intelligence, Computer Vision, Robotics, and Embedded Systems**.
 
-</div>
+I enjoy understanding how things work, experimenting with new technologies, and turning ideas into working systems.
 
-```python
-def hello():
-    name = "Khaldoun"
+* 🤖 My main interests are **AI, Machine Learning, Computer Vision, and Intelligent Systems**.
+* 👁️ I enjoy working with **computer vision, object detection, tracking, and OCR**.
+* 🧠 I am exploring **Deep Learning, LLMs, Prompt Engineering, and RAG systems**.
+* 🔧 I like combining **software with hardware**, especially robotics and embedded systems.
+* 💻 I mainly work with **Python, C++, and C**.
+* 📚 I am constantly learning and trying to understand technologies beyond the surface.
+* 🚀 My goal is to build systems that are not only functional, but actually **useful and intelligent**.
 
-    role = "Computer Engineering Student"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Robotics",
-        "Embedded Systems"
-    ]
-
-    mindset = "learn → build → fail → understand → build again"
-
-    return f"Hey, I'm {name} 🚀"
-```
+<details>
+<summary><b>🧩 A little more about me</b></summary>
 
 <br>
-
-<div align="center">
-
-## 🧩 Things I Like
-
-<img src="https://img.shields.io/badge/AI-111111?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111111?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Robotics-111111?style=flat-square&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded-111111?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-111111?style=flat-square&logo=openai&logoColor=white"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ⚙️ My Toolbox
-
-</div>
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
-
-### Embedded / Engineering
-
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
-
-<br>
-
----
-
-<div align="center">
-
-## 🧠 What I'm Exploring
-
-</div>
 
 ```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Deep Learning
-        ├── Computer Vision
-        │      ├── Detection
-        │      ├── Tracking
-        │      └── OCR
-        │
-        ├── LLMs
-        │      ├── Prompt Engineering
-        │      └── RAG
-        │
-        └── Intelligent Systems
-               ├── Robotics
-               └── Embedded AI
+Engineering
+     │
+     ├── Software
+     │     ├── Python
+     │     ├── C++
+     │     └── C
+     │
+     ├── Artificial Intelligence
+     │     ├── Machine Learning
+     │     ├── Deep Learning
+     │     ├── LLMs
+     │     └── RAG
+     │
+     ├── Computer Vision
+     │     ├── Object Detection
+     │     ├── Tracking
+     │     └── OCR
+     │
+     └── Hardware
+           ├── Robotics
+           ├── Arduino / ESP32
+           └── Embedded Systems
 ```
 
-<br>
-
-<div align="center">
-
-## 🔥 Currently
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="38"/>
-
-**Learning new things.**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="38"/>
-
-**Building new things.**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" width="38"/>
-
-**Trying to understand why the code works.**
-
-</div>
-
-<br>
+</details>
 
 ---
 
 <div align="center">
 
-## 💻 Coding Mood
+# ⚡ Tech Stack
 
-<br>
+### 🧠 AI / ML
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="70"/>
-
-   
-
-`coffee.exe`
-
-   
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Coffee.png" width="48"/>
-
-   
-
-`→`
-
-   
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Computer.png" width="48"/>
-
-   
-
-`→`
-
-   
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" width="48"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark"/>
 
 <br><br>
 
-`"why is it not working?"`
+### 👁️ Computer Vision
 
-<br>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
 
-`↓`
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR-7C3AED?style=for-the-badge&logoColor=white"/>
 
-<br>
+<br><br>
 
-`"oh..."`
+### 🤖 Embedded / Robotics
 
-<br>
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
 
-`↓`
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
 
-<br>
+<br><br>
 
-`"IT WORKS"`
+### 🛠️ Development
+
+<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,jupyter&theme=dark"/>
 
 </div>
 
 ---
 
+# 🔭 Currently Exploring
+
 <div align="center">
 
-## 📊 GitHub
+|       🧠 AI      |    👁️ Vision    |   🤖 Robotics   |     🔬 Research    |
+| :--------------: | :--------------: | :-------------: | :----------------: |
+| Machine Learning | Object Detection |   Embedded AI   |        LLMs        |
+|   Deep Learning  |     Tracking     | ESP32 / Arduino |         RAG        |
+|   Generative AI  |        OCR       |     Robotics    | Prompt Engineering |
 
-<br>
+</div>
+
+---
+
+# 💭 How I Learn
+
+```python
+while True:
+
+    learn()
+    experiment()
+    build()
+    break_something()
+    debug()
+    understand()
+
+```
+
+> **Learn → Build → Break → Understand → Build Better**
+
+---
+
+<div align="center">
+
+# 📊 GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=tokyonight&background=00000000" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" width="48%"/>
 
 <br><br>
 
@@ -217,30 +145,33 @@ Artificial Intelligence
 
 </div>
 
+---
+
+<details>
+<summary><b>🏆 Some other things about me</b></summary>
+
 <br>
+
+* 🥉 **3rd Place — Engineering Day Exhibition**
+* 🎓 Computer Engineering Student
+* 🤖 Interested in AI + Robotics
+* 👁️ Passionate about Computer Vision
+* 🧠 Always exploring new AI technologies
+
+</details>
 
 ---
 
 <div align="center">
 
-## 🐍 Contribution Grid
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="65"/>
 
 <br>
 
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="45"/>
-
-### `Keep learning. Keep building. Keep exploring.`
+### `Building. Learning. Exploring.`
 
 <br>
 
-**— Khaldoun**
+**Khaldoun 🚀**
 
 </div>
