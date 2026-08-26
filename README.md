@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/khaldoun-hero.svg" width="100%" alt="Khaldoun Profile"/>
+<img
+  src="./assets/khaldoun-hero.svg"
+  width="100%"
+  alt="Khaldoun Profile"
+/>
 
-<br><br>
-
-<a href="https://github.com/Tiledcoper">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
 
 <a href="https://www.linkedin.com/in/khaldoun-alkhatib/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
