@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#064E3B"/>
+    <stop offset="50%" stop-color="#10B981"/>
+    <stop offset="100%" stop-color="#A3E635"/>
+  </linearGradient>
+
+  <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.20"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+  </linearGradient>
+</defs>
+
+<!-- Main background -->
+<rect x="18" y="18" width="1364" height="784" rx="46" fill="url(#bg)"/>
+
+<!-- Soft decorative circles -->
+<circle cx="1180" cy="130" r="150" fill="#D9F99D" opacity="0.12"/>
+<circle cx="220" cy="700" r="130" fill="#022C22" opacity="0.12"/>
+
+<!-- Title -->
+<text
+  x="78"
+  y="155"
+  font-family="Arial, sans-serif"
+  font-size="82"
+  font-weight="700"
+  letter-spacing="3"
+  fill="#FFFFFF">
+  KHALDOUN
+</text>
+
+<!-- Main panel -->
+<rect
+  x="70"
+  y="225"
+  width="1260"
+  height="475"
+  rx="30"
+  fill="url(#panel)"
+  stroke="#FFFFFF"
+  stroke-opacity="0.20"
+  stroke-width="2"/>
+
+<!-- Profile card -->
+<rect
+  x="100"
+  y="255"
+  width="325"
+  height="415"
+  rx="24"
+  fill="#FFFFFF"
+  fill-opacity="0.96"/>
+
+<!-- Avatar circle -->
+<circle cx="262" cy="355" r="65" fill="#E8F8F0"/>
+
+<text
+  x="262"
+  y="375"
+  text-anchor="middle"
+  font-family="Arial, sans-serif"
+  font-size="50"
+  font-weight="700"
+  fill="#064E3B">
+  K
+</text>
+
+<!-- Profile name -->
+<text
+  x="262"
+  y="455"
+  text-anchor="middle"
+  font-family="Arial, sans-serif"
+  font-size="25"
+  font-weight="700"
+  fill="#202433">
+  Khaldoun
+</text>
+
+<text
+  x="262"
+  y="482"
+  text-anchor="middle"
+  font-family="Arial, sans-serif"
+  font-size="14"
+  fill="#727784">
+  Computer Engineering Student
+</text>
+
+<!-- Profile chips -->
+<rect x="140" y="520" width="70" height="30" rx="15" fill="#D1FAE5"/>
+<text x="175" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#064E3B">AI</text>
+
+<rect x="220" y="520" width="85" height="30" rx="15" fill="#ECFCCB"/>
+<text x="262" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#4D7C0F">Vision</text>
+
+<rect x="315" y="520" width="75" height="30" rx="15" fill="#DCFCE7"/>
+<text x="352" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#047857">Python</text>
+
+<rect x="165" y="560" width="65" height="30" rx="15" fill="#F0FDFA"/>
+<text x="197" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#4F46E5">C++</text>
+
+<!-- Right heading -->
+<text
+  x="465"
+  y="295"
+  font-family="Arial, sans-serif"
+  font-size="24"
+  font-weight="700"
+  letter-spacing="1"
+  fill="#FFFFFF">
+  A LITTLE ABOUT ME
+</text>
+
+<text
+  x="465"
+  y="325"
+  font-family="Arial, sans-serif"
+  font-size="14"
+  fill="#FFFFFF"
+  opacity="0.78">
+  A quick snapshot from my journey so far.
+</text>
+
+<!-- Education card -->
+<rect x="465" y="355" width="255" height="125" rx="20" fill="#FFFFFF" fill-opacity="0.96"/>
+
+<circle cx="495" cy="388" r="16" fill="#E8F8F0"/>
+<text x="495" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#064E3B">01</text>
+
+<text x="525" y="395" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#202433">Education</text>
+<text x="490" y="430" font-family="Arial, sans-serif" font-size="13" fill="#6F7480">Badr University in Cairo</text>
+<text x="490" y="453" font-family="Arial, sans-serif" font-size="13" fill="#6F7480">Computer Engineering • GPA 3.47</text>
+
+<!-- Foundation card -->
+<rect x="740" y="355" width="255" height="125" rx="20" fill="#FFFFFF" fill-opacity="0.96"/>
+
+<circle cx="770" cy="388" r="16" fill="#ECFCCB"/>
+<text x="770" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#4D7C0F">02</text>
+
+<text x="800" y="395" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#202433">Foundation</text>
+<text x="765" y="430" font-family="Arial, sans-serif" font-size="13" fill="#6F7480">Data Structures • Algorithms</text>
+<text x="765" y="453" font-family="Arial, sans-serif" font-size="13" fill="#6F7480">OOP • Problem Solving</text>
+
+<!-- Goal card -->
+<rect x="1015" y="355" width="285" height="125" rx="20" fill="#FFFFFF" fill-opacity="0.96"/>
+
+<circle cx="1045" cy="388" r="16" fill="#DCFCE7"/>
+<text x="1045" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#047857">03</text>
+
+<text x="1075" y="395" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#202433">Goal</text>
+<text x="1040" y="430" font-family="Arial, sans-serif" font-size="13" fill="#6F7480">Gain practical experience</text>
+<text x="1040" y="453" font-family="Arial, sans-serif" font-size="13" fill="#6F7480">Build real-world solutions</text>
+
+<!-- Interests strip -->
+<rect x="465" y="505" width="835" height="135" rx="20" fill="#061A14" fill-opacity="0.38"/>
+
+<text
+  x="495"
+  y="542"
+  font-family="Arial, sans-serif"
+  font-size="17"
+  font-weight="700"
+  letter-spacing="1"
+  fill="#FFFFFF">
+  AREAS OF INTEREST
+</text>
+
+<text x="495" y="580" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">AI</text>
+<text x="555" y="580" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Machine Learning</text>
+<text x="715" y="580" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Deep Learning</text>
+<text x="865" y="580" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Computer Vision</text>
+<text x="1040" y="580" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Software Development</text>
+
+<!-- Accent bars -->
+<rect x="495" y="605" width="42" height="6" rx="3" fill="#BBF7D0"/>
+<rect x="555" y="605" width="135" height="6" rx="3" fill="#86EFAC"/>
+<rect x="715" y="605" width="125" height="6" rx="3" fill="#D9F99D"/>
+<rect x="865" y="605" width="145" height="6" rx="3" fill="#BBF7D0"/>
+<rect x="1040" y="605" width="190" height="6" rx="3" fill="#86EFAC"/>
+
+</svg>
