@@ -28,21 +28,25 @@ src="https://komarev.com/ghpvc/?username=Tiledcoper&style=flat-square&color=10B9
 
 </div>
 
+---
+
 <div align="center">
 
-👋 About Me
+## 👋 About Me
 
 </div>
 
-I'm Khaldoun, a second-year Computer Engineering student at Badr University in Cairo (BUC).
+I'm **Khaldoun**, a second-year **Computer Engineering student at Badr University in Cairo (BUC)**.
 
-I have a strong foundation in programming, data structures, algorithms, and problem-solving, with a growing interest in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and emerging technologies.
+I have a strong foundation in **programming, data structures, algorithms, and problem-solving**, with a growing interest in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and emerging technologies**.
 
 I enjoy learning new technologies, improving my technical skills, and turning what I learn into practical work.
 
+---
+
 <div align="center">
 
-🧠 Core Skills
+## 🧠 Core Skills
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -65,9 +69,11 @@ I enjoy learning new technologies, improving my technical skills, and turning wh
 
 </div>
 
+---
+
 <div align="center">
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <br>
 
@@ -91,29 +97,32 @@ I enjoy learning new technologies, improving my technical skills, and turning wh
 
 </div>
 
+---
+
 <div align="center">
 
-🧩 More About Me
+## 🧩 More About Me
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="25%">
 
-🎓
+### 🎓
 
-Education
+**Education**
 
 Badr University in Cairo
 Computer Engineering
-GPA: 3.47 / 4.00
+GPA: **3.47 / 4.00**
 
 </td>
 
 <td align="center" width="25%">
 
-🧠
+### 🧠
 
-Foundation
+**Foundation**
 
 Data Structures
 Algorithms
@@ -124,9 +133,9 @@ Problem Solving
 
 <td align="center" width="25%" bgcolor="#1D4ED8">
 
-🚀
+### 🚀
 
-What I Build Toward
+**What I Build Toward**
 
 Software
 AI
@@ -137,24 +146,28 @@ Real-world systems
 
 <td align="center" width="25%" bgcolor="#EF4444">
 
-🎯
+### 🎯
 
-Career Goal
+**Career Goal**
 
 Gain practical experience
 Apply what I learn
 Keep growing as an engineer
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
+---
+
 <div align="center">
 
-📚 Learning Journey
+## 📚 Learning Journey
 
+```text
 Programming
      │
      ├── C / C++
@@ -179,12 +192,15 @@ Programming
       │
       ▼
    Exploring New AI Technologies
+```
 
 </div>
 
+---
+
 <div align="center">
 
-📜 Certifications
+## 📜 Certifications
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-A3E635?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=for-the-badge&logoColor=white"/>
@@ -192,10 +208,13 @@ Programming
 
 </div>
 
+---
+
 <div align="center">
 
-🎯 Career Direction
+## 🎯 Career Direction
 
+```text
 Learning
    ↓
 Building
@@ -205,12 +224,29 @@ Gaining Experience
 Solving Real Problems
    ↓
 Growing as an Engineer
+```
 
 </div>
 
+---
+
 <div align="center">
 
-📊 GitHub Stats
+## 🌱 Currently Exploring
+
+<img src="https://img.shields.io/badge/AI-064E3B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-A3E635?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-047857?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Emerging%20Technologies-65A30D?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
 
 <br>
 
@@ -233,9 +269,11 @@ width="40%"
 
 </div>
 
+---
+
 <div align="center">
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <br>
 
@@ -259,6 +297,7 @@ src="https://komarev.com/ghpvc/?username=Tiledcoper&style=flat-square&color=10B9
 
 <br><br>
 
-Thanks for stopping by 🚀
+### `Thanks for stopping by 🚀`
 
 </div>
+```
