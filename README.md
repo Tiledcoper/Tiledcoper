@@ -1,44 +1,127 @@
 <div align="center">
 
-<!-- ===================== ANIMATED TOP ===================== -->
+<br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="70%" />
+<h1>
+<span style="color:#6C2BFF;">Khaldoun</span><span style="color:#242424;">.AI</span>
+</h1>
+
+<p>
+<b>Computer Engineering Student</b>
+</p>
+
+<a href="https://github.com/YOUR_USERNAME">
+See repo →
+</a>
 
 <br><br>
 
-<!-- ===================== BIG TITLE ===================== -->
+<!-- MAIN PURPLE / PINK HERO -->
 
-<h1 style="font-size: 70px;">KHALDOUN</h1>
+<table>
+<tr>
+<td>
 
-<h3>Computer Engineering Student</h3>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=6C2BFF&height=300&section=header&text=KHALDOUN&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=AI%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descAlignY=55&descSize=18"
+width="100%"
+/>
 
-<p>
-AI&nbsp;&nbsp;•&nbsp;&nbsp;Computer Vision&nbsp;&nbsp;•&nbsp;&nbsp;Robotics&nbsp;&nbsp;•&nbsp;&nbsp;Embedded Systems
-</p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<!-- ===================== BIG HERO IMAGE ===================== -->
+<!-- FLOATING CARDS -->
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Building%20Intelligent%20Systems&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=50"
-width="90%"
-/>
+<table>
+<tr>
 
-<br><br>
+<td width="24%" align="center">
 
-<!-- ===================== TYPING LINE ===================== -->
+### 🤖
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Build+Better;Always+exploring+new+ideas+%F0%9F%9A%80"
-width="80%"
-/>
+<b>AI</b>
 
 <br><br>
 
-<img
-src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"
-/>
+Machine Learning
+
+<br>
+
+Deep Learning
+
+<br>
+
+LLMs / RAG
+
+</td>
+
+<td width="24%" align="center">
+
+### 👁️
+
+<b>Vision</b>
+
+<br><br>
+
+Object Detection
+
+<br>
+
+OCR
+
+<br>
+
+Tracking
+
+</td>
+
+<td width="24%" align="center">
+
+### ⚡
+
+<b>Embedded</b>
+
+<br><br>
+
+Arduino
+
+<br>
+
+ESP32
+
+<br>
+
+C / C++
+
+</td>
+
+<td width="24%" align="center">
+
+### 🔧
+
+<b>Engineering</b>
+
+<br><br>
+
+KiCad
+
+<br>
+
+Git
+
+<br>
+
+VS Code
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 </div>
 
@@ -46,32 +129,39 @@ src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7
 
 <div align="center">
 
-# 👋 About Me
+## About Me
 
 </div>
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
 
-I'm **Khaldoun**, a Computer Engineering student interested in building intelligent systems by combining software, AI and hardware.
+<td width="60%" valign="top">
 
-I enjoy learning how things work under the hood and turning ideas into real working systems.
+I'm **Khaldoun**, a Computer Engineering student interested in building intelligent systems.
+
+I like working at the intersection of:
+
+**Software × AI × Hardware**
+
+I enjoy learning how systems work internally, experimenting with new ideas, and turning what I learn into something real.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" align="center">
 
 ```text
-🧠 Artificial Intelligence
-👁️ Computer Vision
-🤖 Robotics
-⚡ Embedded Systems
-🔬 LLMs & RAG
-💻 Python / C++
+STATUS
+
+🧠 Learning AI
+👁️ Exploring Vision
+🤖 Building Systems
+🔧 Engineering Things
+🚀 Always Exploring
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -79,25 +169,20 @@ I enjoy learning how things work under the hood and turning ideas into real work
 
 <div align="center">
 
-# ⚡ Things I Work With
+## ⚙️ Tools I Use
 
-</div>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,arduino,git,github,vscode,jupyter&theme=dark" />
-
-</p>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6C2BFF?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-6C2BFF?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-6C2BFF?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-6C2BFF?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-6C2BFF?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-6C2BFF?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-6C2BFF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-6C2BFF?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-6C2BFF?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-6C2BFF?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-6C2BFF?style=flat-square&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-6C2BFF?style=flat-square&logo=git&logoColor=white"/>
 
 </div>
 
@@ -105,81 +190,48 @@ I enjoy learning how things work under the hood and turning ideas into real work
 
 <div align="center">
 
-# 🧠 My Tech World
+## 🧠 My Stack
 
 </div>
 
-```text
-                         ARTIFICIAL
-                        INTELLIGENCE
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-       MACHINE            COMPUTER          LLMs /
-       LEARNING             VISION            RAG
-             │                │                │
-             │         ┌──────┼──────┐         │
-             │         │      │      │         │
-             ▼         ▼      ▼      ▼         ▼
-         Deep       Detection Tracking OCR   Generative AI
-        Learning
-             │
-             └────────────────┬────────────────
-                              ▼
-                        INTELLIGENT
-                          SYSTEMS
-                              │
-                      ┌───────┴───────┐
-                      ▼               ▼
-                   ROBOTICS       EMBEDDED
+```cpp
+class Khaldoun {
+
+public:
+
+    string field = "Computer Engineering";
+
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Robotics",
+        "Embedded Systems"
+    };
+
+    vector<string> exploring = {
+        "Deep Learning",
+        "LLMs",
+        "RAG",
+        "Intelligent Systems"
+    };
+
+    string philosophy =
+        "Learn → Build → Understand → Improve";
+};
 ```
 
 ---
 
-<details>
-<summary><b>🚀 What I'm Currently Exploring</b></summary>
-
-<br>
-
-* Machine Learning & Deep Learning
-* Computer Vision
-* LLMs & RAG
-* Prompt Engineering
-* Robotics & Embedded AI
-* New AI tools and technologies
-
-</details>
-
----
-
 <div align="center">
 
-# 💻 My Coding Philosophy
+## 📊 GitHub Stats
 
 <br>
 
-```python
-while True:
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default&title_color=6C2BFF&icon_color=6C2BFF" width="48%"/>
 
-    learn()
-
-    experiment()
-
-    build()
-
-    break_something()
-
-    debug()
-
-    understand()
-
-    build_better()
-```
-
-<br>
-
-### `Learn → Build → Break → Understand → Repeat`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&ring=6C2BFF&fire=6C2BFF&currStreakLabel=6C2BFF" width="48%"/>
 
 </div>
 
@@ -187,32 +239,8 @@ while True:
 
 <div align="center">
 
-# 📊 GitHub
+### 💜 Building the future, one idea at a time.
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="42%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="65"/>
-
-<br>
-
-### `Still learning. Still building. Still exploring.`
-
-<br>
-
-**Khaldoun 🚀**
+**Khaldoun**
 
 </div>
