@@ -1,24 +1,31 @@
+````markdown
 <div align="center">
 
-<img src="./assets/khaldoun-hero.svg" width="100%" alt="Khaldoun Profile"/>
+<img
+  src="./assets/khaldoun-hero-github-safe.svg"
+  width="100%"
+  alt="Khaldoun Profile"
+/>
 
 <br><br>
 
 <a href="https://github.com/Tiledcoper">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Tiledcoper-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/khaldoun-alkhatib/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Khaldoun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:khaldounmouhamad20@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Tiledcoper&style=flat-square&color=10B981&label=PROFILE+VIEWS"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Tiledcoper&style=flat-square&color=10B981&label=PROFILE+VIEWS"
+/>
 
 </div>
 
@@ -30,19 +37,17 @@
 
 </div>
 
-I'm **Khaldoun**, a second-year **Computer Engineering student at Badr University in Cairo (BUC)** with a strong foundation in programming, data structures, algorithms, and problem-solving.
+I'm **Khaldoun**, a second-year **Computer Engineering student at Badr University in Cairo (BUC)**.
 
-I'm particularly interested in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and emerging technologies**.
+I have a strong foundation in **programming, data structures, algorithms, and problem-solving**, with a growing interest in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and emerging technologies**.
 
-I enjoy learning by building, experimenting with new technologies, and continuously improving my technical skills.
+I enjoy learning new technologies, improving my technical skills, and turning what I learn into practical work.
 
 ---
 
 <div align="center">
 
 ## 🧠 Core Skills
-
-<br>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -71,7 +76,12 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 ## 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode,jupyter,arduino&theme=dark"/>
+<br>
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 <br><br>
 
@@ -79,8 +89,12 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
 
 </div>
 
@@ -88,13 +102,51 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <div align="center">
 
+## 📚 Learning Journey
+
+</div>
+
+```text
+Programming
+     │
+     ├── C / C++
+     ├── Python
+     └── Problem Solving
+             │
+             ▼
+   Data Structures & Algorithms
+             │
+             ▼
+       Software Development
+             │
+             ▼
+     Artificial Intelligence
+             │
+      ┌──────┴──────┐
+      ▼             ▼
+ Machine Learning  Computer Vision
+      │
+      ▼
+ Deep Learning
+      │
+      ▼
+   Exploring New AI Technologies
+````
+
+---
+
+<div align="center">
+
 ## 🎓 Education
 
-**Badr University in Cairo (BUC)**
-Bachelor of Computer Engineering
+### Badr University in Cairo (BUC)
+
+**Bachelor of Computer Engineering**
 
 **Current Academic Year:** Second Year
+
 **GPA:** 3.47 / 4.00
+
 **Expected Graduation:** 2028
 
 </div>
@@ -104,6 +156,8 @@ Bachelor of Computer Engineering
 <div align="center">
 
 ## 📜 Certifications
+
+<br>
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-A3E635?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-10B981?style=for-the-badge&logoColor=white"/>
@@ -115,24 +169,36 @@ Bachelor of Computer Engineering
 
 <div align="center">
 
-## 🎯 What I'm Working Toward
+## 🎯 Career Direction
 
-<br>
+</div>
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Gain Experience
-  ↓
-Solve Real Problems
-  ↓
-Keep Growing
+Learning
+   ↓
+Building
+   ↓
+Gaining Experience
+   ↓
+Solving Real Problems
+   ↓
+Growing as an Engineer
 ```
 
-I'm currently looking for opportunities where I can apply my academic knowledge,
-develop practical skills, and contribute to real-world technical work.
+My goal is to gain practical experience, strengthen my technical skills,
+and contribute to real-world work in **Computer Engineering, Software Development, Artificial Intelligence, or related technical fields**.
+
+---
+
+<div align="center">
+
+## 🌱 Currently Exploring
+
+<img src="https://img.shields.io/badge/AI-064E3B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-A3E635?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-047857?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Emerging%20Technologies-65A30D?style=for-the-badge"/>
 
 </div>
 
@@ -140,17 +206,26 @@ develop practical skills, and contribute to real-world technical work.
 
 <div align="center">
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tiledcoper&show_icons=true&hide_border=true&title_color=10B981&icon_color=A3E635&text_color=374151&bg_color=ffffff" width="48%"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Tiledcoper&show_icons=true&hide_border=true&title_color=10B981&icon_color=A3E635&text_color=374151&bg_color=FFFFFF"
+width="48%"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiledcoper&hide_border=true&ring=10B981&fire=A3E635&currStreakLabel=10B981&background=FFFFFF" width="48%"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Tiledcoper&hide_border=true&ring=10B981&fire=A3E635&currStreakLabel=10B981&background=FFFFFF"
+width="48%"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiledcoper&layout=compact&hide_border=true&title_color=10B981&text_color=374151&bg_color=ffffff" width="40%"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiledcoper&layout=compact&hide_border=true&title_color=10B981&text_color=374151&bg_color=FFFFFF"
+width="40%"
+/>
 
 </div>
 
@@ -163,19 +238,26 @@ develop practical skills, and contribute to real-world technical work.
 <br>
 
 <a href="https://github.com/Tiledcoper">
-<img src="https://img.shields.io/badge/GitHub-Tiledcoper-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Tiledcoper-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/khaldoun-alkhatib/">
-<img src="https://img.shields.io/badge/LinkedIn-Khaldoun%20Alkhatib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Khaldoun%20Alkhatib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:khaldounmouhamad20@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-khaldounmouhamad20-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img
+src="https://komarev.com/ghpvc/?username=Tiledcoper&style=flat-square&color=10B981&label=PROFILE+VIEWS"
+/>
 
 <br><br>
 
 ### `Thanks for stopping by 🚀`
 
 </div>
+```
